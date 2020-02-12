@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical"
+    },
+    "description": "Convert a HEX color to RGB or a RGB color to HEX.\nAPI from https://www.thecolorapi.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1567771196445x842978456027589900/colorapi-logo.jpg",
+    "license": "open_source",
+    "name": "The Color API"
+}
